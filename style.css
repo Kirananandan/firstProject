@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.box img{
+    width: 270px;
+    padding: 3px;
+    border: 8px solid rgb(74, 36, 162);
+    border-left-color: rgb(117, 140, 157);
+    border-top-color:rgb(127, 120, 116);
+    border-right-color:rgb(117, 140, 157);
+    border-bottom-color:rgb(127, 120, 116);
+}
+img:hover{
+    border: 8px solid rgb(38, 31, 173);
+}
+*{
+    background: #8061a9;
+}
